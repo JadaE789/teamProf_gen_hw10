@@ -1,0 +1,24 @@
+{
+  "name": "teamProf_gen_hw10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JadaE789/teamProf_gen_hw10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JadaE789/teamProf_gen_hw10/issues"
+  },
+  "homepage": "https://github.com/JadaE789/teamProf_gen_hw10#readme"
+}
