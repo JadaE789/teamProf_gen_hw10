@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/JadaE789/teamProf_gen_hw10#readme",
   "dependencies": {
-    "inquirer": "^8.0.0",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
     "jest": "^26.6.3"
   }
 }
